@@ -17,11 +17,11 @@ def debug(obj):
 	"""
 	if isinstance(obj, str):
 		timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-		print(f"{emojize(":hammer_and_wrench:")}  {timestamp} - {obj}")
+		print(f"{emojize(':hammer_and_wrench:')}  {timestamp} - {obj}")
 
 	else:
 		timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-		print(f"{emojize(":hammer_and_wrench:")}️  {timestamp}")
+		print(f"{emojize(':hammer_and_wrench:')}️  {timestamp}")
 		print("-" * 40)
 		pprint(obj, width=1, sort_dicts=False)
 		print("-" * 40)

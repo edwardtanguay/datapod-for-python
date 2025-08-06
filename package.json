@@ -1,0 +1,22 @@
+{
+  "name": "datapod_for_python",
+  "version": "1.0.0",
+  "description": "This is a Python project based on Datapod, currently can be used as a simple template for a Python project.",
+  "main": "index.js",
+  "scripts": {
+    "gh": "git log --pretty=format:\"%ad | %h | %s\" --date=format:\"%Y-%m-%d %H:%M:%S\"",
+    "backup": "bash -c 'git archive --format=zip HEAD -o \"../BACKUP/datapod-for-python-$(date +%F-%H-%M-%S).zip\"'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/datapod_for_python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/datapod_for_python/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/datapod_for_python#readme"
+}

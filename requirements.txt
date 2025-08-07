@@ -29,7 +29,7 @@ nh3==0.2.21
 nr-date==2.1.0
 nr-stream==1.1.5
 nr.util==0.8.12
-numpy==2.3.2
+numpy==2.2.6
 packaging==25.0
 pandas==2.3.1
 pathspec==0.12.1

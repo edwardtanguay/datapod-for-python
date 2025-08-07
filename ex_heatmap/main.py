@@ -13,4 +13,6 @@ correlation_matrix = df_numerical.corr()
 sns.heatmap(correlation_matrix)
 
 # Visualizzazione del grafico
-plt.show()
+plt.savefig("test_heatmap.png")
+plt.show() # may not show on Ubuntu
+

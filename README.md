@@ -14,6 +14,12 @@ This is a Python project based on Datapod, currently can be used as a simple tem
 
 - `python main.py`
 
+## Run Jupyter notebooks example
+
+- `cd ex_heatmap`
+- `python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"`
+- `jupyter lab`
+
 ## Using emojis
 
 - search for shortcodes here: https://www.webfx.com/tools/emoji-cheat-sheet

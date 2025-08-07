@@ -12,7 +12,6 @@ docspec-python==2.2.2
 docstring_parser==0.11
 docutils==0.21.2
 emoji==2.14.1
-et772_python_pip @ file:///C:/edward/projects/PYTHON/et772_python_pip/dist/et772_python_pip-0.2-py3-none-any.whl#sha256=f44745c0711771f071e9c85e7f07111614dbf9898320da7a23fb24a07f6d9bc3
 id==1.5.0
 idna==3.10
 jaraco.classes==3.4.0

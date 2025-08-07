@@ -19,4 +19,8 @@ This is a Python project based on Datapod, currently can be used as a simple tem
 - search for shortcodes here: https://www.webfx.com/tools/emoji-cheat-sheet
 - `print(emojize(":thumbs_up:"))`
 
+## Realistic data
+
+- https://www.kaggle.com
+
 
